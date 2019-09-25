@@ -1,0 +1,37 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#f9582e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "info": "Workshop"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.141303420066833,
+            55.65322478697732
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "marker-color": "#3736f4",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "info": "humtek"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            12.13815450668335,
+            55.65303411032783
+          ]
+        }
+      }
+    ]
+  }
