@@ -10,7 +10,7 @@ const MapPage = () => (
   <Layout>
     <SEO title="Page two" />
     <h1>Hi from the map page</h1>
-     <MyMap GeoJSON ={WsGeoJSON}/>
+     <MyMap geoJSON ={WsGeoJSON}/>
     
     <Link to="/">Go back to the homepage</Link>
   </Layout>
